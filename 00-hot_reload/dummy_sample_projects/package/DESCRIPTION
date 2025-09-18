@@ -1,0 +1,8 @@
+Package: example_package
+Title: Example Package
+Version: 0.0.0
+Authors@R: 
+    person("Miguel", "Lechón", , "contact@dull.systems", role = c("aut", "cre"))
+Description: Example of package reloading.
+License: 0BSD
+Encoding: UTF-8
