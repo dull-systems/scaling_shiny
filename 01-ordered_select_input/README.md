@@ -1,4 +1,4 @@
-# Ordered SelectInput [![status](http://assets.dull.systems:8080/status?id=scaling_shiny/01-ordered_select_input/README.md)](https://dull.systems/ordered-select-input "")
+# Ordered SelectInput [![status](http://assets.dull.systems:8080/status?id=scaling_shiny/01-ordered_select_input/README.md)](https://www.dull.systems/ordered-select-input "")
 
 # Goal
 Drop-in replacement for `shiny::selectInput` that preserves the order of selected items on initialization and bookmark restoration.

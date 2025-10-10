@@ -1,4 +1,4 @@
-# Shiny App Hot Reloader [![status](http://assets.dull.systems:8080/status?id=scaling_shiny/00-hot_reload/README.md)](https://dull.systems/hot-reloading-shiny-apps "")
+# Shiny App Hot Reloader [![status](http://assets.dull.systems:8080/status?id=scaling_shiny/00-hot_reload/README.md)](https://www.dull.systems/hot-reloading-shiny-apps "")
 
 # Goal
 Faster development of shiny-related R packages through app hot reloading.
@@ -14,7 +14,7 @@ This script builds upon those two techniques and provides the following extra be
   to `devtools::load_all()` packages before every reload.
 
 # Requirements:
-- shiny >= 1.11.0
+- shiny ≥ 1.11.0
 
   Previous versions of shiny don't reload apps fully unless the launched app file itself changes.
   This can be worked around through by launching a separate app reloader process. If you need to use an older version
